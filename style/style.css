@@ -1,0 +1,190 @@
+body {
+    display: flex;
+  justify-content: center;
+	background-color: #ede9e0;
+}
+
+nav {
+
+}
+li {
+    display: inline-block;
+}
+.wrapper{
+    width: 1022px;
+    margin: 0 auto;
+}
+
+
+
+.info {
+    text-align: center;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+background: #510fad;
+}
+.info-container {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    padding: 5px;
+}
+
+
+
+
+
+h1 {
+	font-family: 'Fira Sans', sans-serif;
+}
+h2 {
+	font-family: 'Fira Sans', sans-serif;
+}
+h3 {
+	font-size: 24px;
+	letter-spacing: 0.5px;
+	line-height: 20px;
+	font-family: 'Fira Sans', sans-serif;
+}
+a {
+	font-family: 'Fira Sans', sans-serif;
+}
+
+p {
+	font-family: 'Roboto', sans-serif;
+}
+
+.breed {
+  margin: 0 auto;
+  padding: 2em;
+  text-align: center;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+.breed-about{
+     display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    width: auto;
+    padding: 5px;
+}
+.breed-dog {
+    width: 50%;
+  text-align: left;
+}
+.breed-container {
+    display: flex;
+}
+.breed-dog-avatar {
+    margin-right: 20px;
+}
+
+
+
+.animals_blog {
+  margin: 0 auto;
+    background: #510fad;
+    display: flex;
+    width: auto;
+    height: 500px;
+    width: 1022px;
+    align-items: center;
+}
+.container {
+    padding: 30px;
+    text-align: left;
+    width: 430px;
+}
+.animals_blog_container h2{
+
+} 
+
+.animals_blog_container p{
+    
+} 
+.blog_container {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+
+    display: flex;
+    text-align: center;
+    border-right: 20px;
+    
+    
+}
+.blog_container-info {
+    padding-bottom: 20px;
+    width: 200px;
+    overflow: hidden;
+    text-align: left;
+    border-radius: 15px;
+    margin: 10px;
+    background-color: #fff;
+}
+.blog_container-info p, .blog_container-info a{
+    padding: 0 10px;
+}
+
+a.animals_blog-next {
+    padding-right: 30px;
+    position: relative;
+
+}
+a.animals_blog-next:after {
+    content: '';
+    position: absolute;
+    top: 3px;
+    right: 0;
+    background-image: url(../images/spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+
+    width: 20px;
+    height: 14px;
+    background-position: -5px -5px;
+}
+
+.social-buttons{
+
+    background-image: url(../images/spritesheet.png);
+    background-repeat: no-repeat;
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    margin-right: 10px;
+}
+
+.vk-yellow {
+
+    width: 26px;
+    height: 26px;
+    background-position: -5px -233px;
+}
+/*.sprite {
+    background-image: url(../images/spritesmith.png);
+    background-repeat: no-repeat;
+    display: inline-block; 
+    background-color: #ff0;
+}
+
+.sprite-icon-facebook {
+    width: 26px;
+    height: 26px;
+    background-position: -5px -5px;
+}
+
+.sprite-icon-instagram {
+    width: 26px;
+    height: 26px;
+    background-position: -41px -5px;
+}
+
+.sprite-icon-vk {
+    width: 26px;
+    height: 26px;
+    background-position: -5px -41px;
+   
+}*/
