@@ -1,7 +1,17 @@
 body {
     display: flex;
-  justify-content: center;
+    justify-content: center;
 	background-color: #ede9e0;
+}
+
+.head-block {
+    display: flex;
+    flex-wrap: wrap;
+    width: auto;
+    padding: 5px;
+}
+.address {
+    align-self: stretch;
 }
 
 nav {
@@ -16,26 +26,49 @@ li {
 }
 
 
+.first {
+    padding: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    box-sizing: border-box;
+}
+.first-box {
+    text-align: left;
+    width: 550px;
+}
+
+
 
 .info {
     text-align: center;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
-background: #510fad;
+    background: #510fad;
 }
+.info-about {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 33.33334%;
+    text-align: left;
+}
+
 .info-container {
     display: flex;
-    flex-wrap: wrap;
-    flex-direction: row;
-    padding: 5px;
+}
+.info-box {
+    text-align: left;
 }
 
-
-
+.info-box a {
+    color: #0ff;
+}
 
 
 h1 {
+    font-size: 48px;
 	font-family: 'Fira Sans', sans-serif;
 }
 h2 {
@@ -54,6 +87,16 @@ a {
 p {
 	font-family: 'Roboto', sans-serif;
 }
+
+
+
+
+
+
+
+
+
+
 
 .breed {
   margin: 0 auto;
@@ -146,6 +189,51 @@ a.animals_blog-next:after {
     height: 14px;
     background-position: -5px -5px;
 }
+
+.comments {
+  margin: 0 auto;
+  padding: 2em;
+  text-align: center;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+.comments-container {
+    display: flex;
+    width: auto;
+}
+.comments-box {
+    text-align: left;
+    width: 50%;
+}
+
+
+
+.contact {
+   margin: 0 auto;
+  padding: 2em;
+  text-align: center;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box; 
+}
+.contact-container {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    width: auto;
+    
+}
+.contact-box {
+    width: 50%;
+    text-align: left;
+}
+.contact-big {
+    color: #737274;
+}
+
+
+
 
 .social-buttons{
 
