@@ -51,7 +51,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 6984,
+				"buffer_size": 7111,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -60,7 +60,7 @@
 			"file": "style/style.css",
 			"settings":
 			{
-				"buffer_size": 4124,
+				"buffer_size": 4232,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -175,26 +175,29 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 6984,
+						"buffer_size": 7111,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								265,
-								265
+								2824,
+								2824
 							]
 						],
 						"settings":
 						{
+							"SL.14.region_keys":
+							[
+							],
 							"SL.24.region_keys":
 							[
 							],
 							"syntax": "Packages/HTML/HTML.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 243.2,
+						"translation.y": 1892.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -212,7 +215,7 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 4124,
+						"buffer_size": 4232,
 						"regions":
 						{
 							"col_00FFFFFF":
@@ -221,8 +224,8 @@
 								"regions":
 								[
 									[
-										885,
-										889
+										995,
+										999
 									]
 								],
 								"scope": "col_00FFFFFF"
@@ -234,8 +237,8 @@
 								"regions":
 								[
 									[
-										874,
-										874
+										984,
+										984
 									]
 								],
 								"scope": "col_gutter"
@@ -246,12 +249,12 @@
 								"regions":
 								[
 									[
-										643,
-										650
+										753,
+										760
 									],
 									[
-										1680,
-										1687
+										1790,
+										1797
 									]
 								],
 								"scope": "col_510FADFF"
@@ -263,12 +266,12 @@
 								"regions":
 								[
 									[
-										627,
-										627
+										737,
+										737
 									],
 									[
-										1664,
-										1664
+										1774,
+										1774
 									]
 								],
 								"scope": "col_gutter"
@@ -279,8 +282,8 @@
 								"regions":
 								[
 									[
-										3370,
-										3377
+										3470,
+										3477
 									]
 								],
 								"scope": "col_737274FF"
@@ -292,8 +295,8 @@
 								"regions":
 								[
 									[
-										3359,
-										3359
+										3459,
+										3459
 									]
 								],
 								"scope": "col_gutter"
@@ -323,39 +326,14 @@
 								],
 								"scope": "col_gutter"
 							},
-							"col_FFFF00FF":
-							{
-								"flags": 16,
-								"regions":
-								[
-									[
-										3819,
-										3823
-									]
-								],
-								"scope": "col_FFFF00FF"
-							},
-							"col_FFFF00FF_icon":
-							{
-								"flags": 16,
-								"icon": "Packages/User/Color Highlight.cache/col_FFFF00FF_circle.png",
-								"regions":
-								[
-									[
-										3797,
-										3797
-									]
-								],
-								"scope": "col_gutter"
-							},
 							"col_FFFFFFFF":
 							{
 								"flags": 16,
 								"regions":
 								[
 									[
-										2303,
-										2307
+										2413,
+										2417
 									]
 								],
 								"scope": "col_FFFFFFFF"
@@ -367,8 +345,8 @@
 								"regions":
 								[
 									[
-										2281,
-										2281
+										2391,
+										2391
 									]
 								],
 								"scope": "col_gutter"
@@ -377,12 +355,15 @@
 						"selection":
 						[
 							[
-								174,
-								104
+								2835,
+								2835
 							]
 						],
 						"settings":
 						{
+							"SL.15.region_keys":
+							[
+							],
 							"SL.25.region_keys":
 							[
 							],
@@ -391,7 +372,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 4636.8,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
